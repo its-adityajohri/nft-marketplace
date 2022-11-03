@@ -1,4 +1,4 @@
-#NFT Market Place
+## NFT Market Place
 
 In this project I have created a small NFT marketplace like OpenSea.
 
